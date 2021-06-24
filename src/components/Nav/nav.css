@@ -1,0 +1,12 @@
+h2 {
+    display: inline-block;
+    margin: 10px;
+}
+form {
+    float: right;
+}
+
+input {
+    display: inline-block;
+    margin: 10px;
+}
